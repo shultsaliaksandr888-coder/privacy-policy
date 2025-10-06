@@ -19,7 +19,7 @@ We use secure API practices and industry-standard encryption. No personal data i
 
 ## 5. Contact
 If you have any questions or concerns, contact us at:  
-**Email:** support@juicypro.ai  
+**Email:** shultzcreative@gmail.com
 **Business Name:** JuicyPro LLC  
 **Country:** United States
 
